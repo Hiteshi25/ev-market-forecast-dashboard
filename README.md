@@ -75,7 +75,7 @@ The complete dashboard is available in the PDF below.
 
 ## Dashboard PDF
 
-[View / Download the Dashboard PDF](./Global-EV-Market-Forecast-Dashboard.pdf)
+[View / Download the Dashboard PDF](./dashboard/Global-EV-Market-Forecast-Dashboard.pdf)
 
 ## Project Structure
 
